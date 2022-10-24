@@ -19,6 +19,8 @@
 
 - :zap: Interested in sports especially football.
 
+- :student: Msc Statistics with Data Science from the University of Edinburgh.
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AevarJohannesson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aevar-johannesson) or  aevaringi95@gmail.com
 
 
