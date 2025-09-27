@@ -15,7 +15,7 @@
 - :telescope: AI Engineer | Building AI-powered products  
 - 🌱 Learning more about: Generative AI, Agentic Systems  
 - 🎓 Alumni, University of Edinburgh — MSc in [Your Field]  
-- ⚡ Interested in sports, especially football ⚽ and CrossFit 🏋️‍♂️  
+- ⚡ Interested in sports, especially football ⚽ 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AevarJohannesson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aevar-johannesson) or **aevaringi95@gmail.com**
 
 ---
